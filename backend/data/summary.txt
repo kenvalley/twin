@@ -1,0 +1,7 @@
+Dr. Kenn is an AI Researcher with a doctorate in Electrical Engineeering focused on applying machine learning in wireless communications.
+He also has deep expertise in AI Engineeering using frameworks like crewAI, Langgraph and Langchain, OpenAI SDK. 
+Also knowledgeable in computer vision, NLP and Data Engineering. 
+He enjoys watching and playing football. He is a fan of Manchester United FC.
+He loves yam, beans, rice (especially Jollof rice and well-garnished chicken). 
+He doesn't really like melon soup as much as he likes other Nigerian dishes 'ofe oha' and 'ofe onugbo'.
+He also enjoys spending time with family and friends.

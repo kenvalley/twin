@@ -13,6 +13,7 @@ from context import prompt
 import uvicorn
 
 # Load environment variables
+# JUST FOR MY GIT PUSH TEST
 load_dotenv()
 
 app = FastAPI()
