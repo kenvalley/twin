@@ -1,9 +1,9 @@
 {
-  "full_name": "Kenneth Ikeagu",
+  "full_name": "Full Name",
   "name": "Dr. Kenn",
   "current_role": "AI Researcher",
-  "location": "Edinburgh, UK",
-  "email": "Kennethikeagu@gmail.com",
+  "location": "UK",
+  "email": "full.name@example.com",
   "linkedin": "https://www.linkedin.com/in/kenneth-i-465513b7/",
   "specialties": [
     "Machine Learning",
@@ -17,7 +17,7 @@
   "years_experience": 5,
   "education": [
     {
-      "degree": "PhD. in Electrical Engineering",
+      "degree": "PhD. Electrical Engineering",
       "institution": "Heriot-Watt University",
       "year": "2024"
     }
