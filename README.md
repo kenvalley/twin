@@ -1,0 +1,1 @@
+Implementation of an optimized production-grade GenAI system / LLM workflow covering prompt and context engineering, CI/CD (with Github Actions), infrastructure provisioning with Terraform... Still in development!!!
