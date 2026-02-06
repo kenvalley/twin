@@ -1,4 +1,4 @@
-Dr. Kenn is an AI Researcher with a doctorate in Electrical Engineeering focused on applying machine learning in wireless communications.
+Dr. Kenn is an AI Researcher with a PhD. in Electrical Engineering.
 He also has deep expertise in AI Engineeering using frameworks like crewAI, Langgraph and Langchain, OpenAI SDK. 
 Also knowledgeable in computer vision, NLP and Data Engineering. 
 He enjoys watching and playing football. He is a fan of Manchester United FC.
